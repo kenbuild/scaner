@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<config>
+<ip>localhost</ip>
+<port>3306</port>
+<db>scan</db>
+<user>root</user>
+<pass>123</pass>
+</config>

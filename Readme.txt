@@ -1,5 +1,5 @@
 #Program Target
-scanner program for factory of customization furniture
+Scanner program for factory of customization furniture
 
 #API files request
 POI API:curvesapi-1.04.jar;poi-3.15.jar;poi-ooxml-3.15.jar;poi-ooxml-schemas-3.15.jar;
@@ -13,4 +13,4 @@ read this file "./lib/scan.sql"
 this file "./lib/config.xml"
 
 #Program main method
-com.ken.scan.MainWindow
+com.bls.scan.MainWindow

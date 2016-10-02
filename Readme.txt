@@ -11,3 +11,6 @@ read this file "./lib/scan.sql"
 
 #Config file
 this file "./lib/config.xml"
+
+#Program main method
+com.ken.scan.MainWindow
